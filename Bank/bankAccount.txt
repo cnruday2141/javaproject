@@ -1,0 +1,6 @@
+uday,23,male,sbi,123131,100
+uday,23,male,HDFC,345673,2000
+raviteja,27,male,ICICI,121312,200
+suhel,25,male,sbi,8907654,500
+girish,24,male,ICICI,12134,500
+girish,24,make,sbi,876543,5000
